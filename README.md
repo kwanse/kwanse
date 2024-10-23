@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=kwanse&animation=fadeIn&fontColor=d9cafe&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백엔드 개발자 김관현입니다 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백엔드 개발자 김관현 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 데이터베이스 기술에 관심이 많습니다</li><li> 객체지향과 설계에 관심이 많습니다 </div> 
     </div>
     <div style="text-align: left;">
