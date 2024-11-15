@@ -2,6 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=kwanse&animation=fadeIn&fontColor=d9cafe&fontSize=90" />
 </div>
 <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐵 백엔드 개발자 김관현입니다 </h2>  
+    <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9; list-style-type: none; padding-left: 0;">
+        <p>중학교 시절 프로그래밍의 매력에 눈을 떠 정보올림피아드에서부터 백엔드 개발까지 오게되었습니다 <br>현재는 동시성과 메모리에 관심을 가지고 끊임없이 배우며 더 효율적인 시스템 구축하기 위해 노력하고 있습니다</p>
+    </ul>
+</div>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 작성한 포스팅 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9; list-style-type: none; padding-left: 0;">
         <li style="margin: 5px 0;"> <a href="https://khan-0103.tistory.com/37" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">결제로직에서의 트랜잭션 분리</a></li>
