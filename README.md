@@ -5,6 +5,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 작성한 포스팅 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         <a href="https://khan-0103.tistory.com/24" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 희망편</a>
+        <a href="https://khan-0103.tistory.com/26" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 절망편</a>
+        <a href="https://khan-0103.tistory.com/21" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Future vs CompletableFuture 동작의 차이</a>
     </div> 
 </div>
 <div style="text-align: left;">
