@@ -3,11 +3,12 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 작성한 포스팅 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        <a href="https://khan-0103.tistory.com/24" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 희망편</a>
-        <a href="https://khan-0103.tistory.com/26" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 절망편</a>
-        <a href="https://khan-0103.tistory.com/21" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Future vs CompletableFuture 동작의 차이</a>
-    </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 작성한 포스팅 </h2>  
+    <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9; list-style-type: none; padding-left: 0;">
+        <li style="margin: 5px 0;">- <a href="https://khan-0103.tistory.com/24" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 희망편</a></li>
+        <li style="margin: 5px 0;">- <a href="https://khan-0103.tistory.com/26" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 절망편</a></li>
+        <li style="margin: 5px 0;">- <a href="https://khan-0103.tistory.com/21" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Future vs CompletableFuture 동작의 차이</a></li>
+    </ul>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
