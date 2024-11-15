@@ -2,16 +2,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=kwanse&animation=fadeIn&fontColor=d9cafe&fontSize=90" />
 </div>
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백엔드 개발자 김관현 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 작성한 포스팅 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        <li> 동시성 처리에 관심이 많습니다</li>
-        <li> 조회에 관심이 많습니다 </li>
+        <a href="https://khan-0103.tistory.com/24" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">Reflection을 이용한 SqlMapper 구현 - 희망편</a>
     </div> 
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <div style="text-align: left; margin-bottom: 10px;">
-        <a href="https://your-link-here.com" style="color: #c9d1d9; font-size: 14px; text-decoration: none; font-weight: bold;">링크1</a>
     </div>
     <br>
     <div align="center"> 
