@@ -15,7 +15,7 @@
     <div style="text-align: left; margin-bottom: 10px;">
     </div>
     <br>
-    <div align="center"> 
+    <div align="left"> 
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
