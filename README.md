@@ -26,7 +26,7 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align="center"> 
+    <div align="left"> 
         <a href="https://khan-0103.tistory.com"> 
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://khan-0103.tistory.com"> 
         </a>
