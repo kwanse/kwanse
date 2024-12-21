@@ -4,6 +4,7 @@
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ☺️ 제30회 한국정보올림피아드 </h3>  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8e035974-8df3-4cdf-858e-f9e0124a57c5">
 <br>
+<br>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐵 백엔드 개발자 김관현입니다 </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9; list-style-type: none; padding-left: 0;">
